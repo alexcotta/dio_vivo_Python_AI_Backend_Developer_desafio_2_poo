@@ -16,7 +16,7 @@ Os principais objetivos deste projeto são:
 - Implementar os conceitos sobre herança e polimorfismo;
 - Implementar interfaces e classes bstratas.
 
-## Ferraemntas e Tecnologias utilizadas
+## Ferramentas e Tecnologias utilizadas
 
 - Python 3.11
 - VSCode
